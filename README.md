@@ -40,7 +40,8 @@ Here's a step-by-step guide to help you build your platform:
 
 You may build a profitable[ app like fiverr](https://migrateshop.com/fiverr-clone/) that draws clients and freelancers and spurs revenue growth by following these steps and concentrating on developing a high-quality platform that fulfills the needs of your users.
 
-* **Monetization Strategies of Our Fiverr Clone**
+### Monetization Strategies of Our Fiverr Clone
+  
 When you decide to build a marketplace platform, it's challenging to have a robust monetization strategy in place to generate revenue and ensure the long-term sustainability of your platform.
 
 Here we mentioned some key strategies you can consider, 
@@ -50,6 +51,7 @@ Here we mentioned some key strategies you can consider,
 * Marketplace advertising
 * Value-added services
 * Transaction-based fees
+
 By thoughtfully combining these monetization strategies, you can create a diverse and sustainable revenue model for your fiverr clone, ensuring that your platform thrives and grows alongside your user base.
 
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“fiverrclone.png" src="https://github.com/migrateshop/fiverr-clone/blob/main/images/fiverr-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
